@@ -11,9 +11,9 @@ class MiContenedorApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Frida Abril Cisneros Hernandez"),
+          title: const Text("Frida Abril Cisneros Hernandez Mat:1162 "),
           centerTitle: true,
-          titleTextStyle: const TextStyle(color: Colors.white, fontSize: 20),
+          titleTextStyle: const TextStyle(color: Colors.white, fontSize: 14),
           backgroundColor: Color(0xff4fa847),
         ),
         body: Center(
